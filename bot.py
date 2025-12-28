@@ -15,7 +15,7 @@ from telegram.ext import (
 # =============================
 # CONFIG
 # =============================
-TOKEN = os.getenv("7035223840:AAEpRAXWikLRPYh8T9hyYw0aY5NRSqoMEpQ")
+TOKEN = os.getenv("BOT TOKEN ICI")
 
 # Quiz de test (structure finale)
 QUIZ = [
